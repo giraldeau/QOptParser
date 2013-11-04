@@ -14,5 +14,6 @@
 # Qt project files
 *.pro.user
 project/Makefile
+qoptparser/Makefile
 build/*
 !build/.keep
